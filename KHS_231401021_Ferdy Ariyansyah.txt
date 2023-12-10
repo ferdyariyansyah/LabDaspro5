@@ -1,21 +1,21 @@
 Kartu Hasil Studi
-=================
+==================================
 
-Nama   : Ferdy Ariyansyah
-NIM    : 231401021
+Nama : Ferdy Ariyansyah
+NIM  : 231401021
 
-|==========================================|
-|No |Matkul                          |Nilai|
-|==========================================|
-|1. |Matematika Dasar                |A    |
-|2. |Pengantar Ilmu Komputer         |B    |
-|3. |Praktikum Dasar Pemrograman     |C    |
-|4. |Organisasi Arsitektur Komputer  |B+   |
-|5. |Dasar Pemrograman               |B    |
-|6. |Logika Matematika               |C+   |
-|7. |Bahasa Indonesia                |C    |
-|8. |Pendidikan Pancasila            |D    |
-|==========================================|
+|=======================================================|
+|No |Matkul                                       |Nilai|
+|=======================================================|
+|1. |Matematika Dasar                             |A    |
+|2. |Pengantar Ilmu Komputer                      |B    |
+|3. |Praktikum Dasar Pemrograman                  |A    |
+|4. |Organisasi Arsitektur Komputer               |B    |
+|5. |Dasar Pemrograman                            |A    |
+|6. |Logika Matematika                            |A    |
+|7. |MKWK Bahasa Indonesia                        |A    |
+|8. |MKWK Penidikan Pancasila                     |B    |
+|=======================================================|
 
-Total SKS  : 19
-IP Semester: 2.79
+Total SKS   : 19
+IP semester : 3.63
